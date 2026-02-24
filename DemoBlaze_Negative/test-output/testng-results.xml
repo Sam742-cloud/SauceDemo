@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-24T14:13:35 IST" name="Default suite" finished-at="2026-02-24T14:13:41 IST" duration-ms="5650">
+    <groups>
+    </groups>
+    <test started-at="2026-02-24T14:13:35 IST" name="Default test" finished-at="2026-02-24T14:13:41 IST" duration-ms="5650">
+      <class name="Test.DemoBlaze_Negative.Saucedemo">
+        <test-method signature="launch()[pri:1, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:35 IST" name="launch" finished-at="2026-02-24T14:13:38 IST" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="login()[pri:2, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:38 IST" name="login" finished-at="2026-02-24T14:13:38 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:3, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:38 IST" name="logout" finished-at="2026-02-24T14:13:38 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="addtocart()[pri:4, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:38 IST" name="addtocart" finished-at="2026-02-24T14:13:39 IST" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="addall()[pri:5, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:39 IST" name="addall" finished-at="2026-02-24T14:13:39 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addall -->
+        <test-method signature="checkoutcart()[pri:6, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:39 IST" name="checkoutcart" finished-at="2026-02-24T14:13:39 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutcart -->
+        <test-method signature="credentials()[pri:7, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:39 IST" name="credentials" finished-at="2026-02-24T14:13:40 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credentials -->
+        <test-method signature="finalcheckout()[pri:8, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:40 IST" name="finalcheckout" finished-at="2026-02-24T14:13:40 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalcheckout -->
+        <test-method signature="finish()[pri:9, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:40 IST" name="finish" finished-at="2026-02-24T14:13:41 IST" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method signature="backhome()[pri:10, instance:Test.DemoBlaze_Negative.Saucedemo@692f203f]" started-at="2026-02-24T14:13:41 IST" name="backhome" finished-at="2026-02-24T14:13:41 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backhome -->
+      </class> <!-- Test.DemoBlaze_Negative.Saucedemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
